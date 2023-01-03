@@ -1,0 +1,38 @@
+body {
+  background-color: black;
+}
+.now {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h3 {
+  text-align: center;
+  color: chocolate;
+}
+
+.heading {
+  text-align: center;
+  color: blueviolet;
+}
+
+.messi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: aquamarine;
+}
+
+.header {
+  text-align: center;
+}
+
+h4 {
+  margin-bottom: 0;
+}
+
+video {
+  width: 250px;
+  margin: 0;
+}
